@@ -1,0 +1,7 @@
+D:\Works\Sem 3\Основы ООП\CatalogV2\CatalogV2\bin\Debug\CatalogV2.exe.config
+D:\Works\Sem 3\Основы ООП\CatalogV2\CatalogV2\bin\Debug\CatalogV2.exe
+D:\Works\Sem 3\Основы ООП\CatalogV2\CatalogV2\bin\Debug\CatalogV2.pdb
+D:\Works\Sem 3\Основы ООП\CatalogV2\CatalogV2\obj\Debug\CatalogV2.csprojAssemblyReference.cache
+D:\Works\Sem 3\Основы ООП\CatalogV2\CatalogV2\obj\Debug\CatalogV2.csproj.CoreCompileInputs.cache
+D:\Works\Sem 3\Основы ООП\CatalogV2\CatalogV2\obj\Debug\CatalogV2.exe
+D:\Works\Sem 3\Основы ООП\CatalogV2\CatalogV2\obj\Debug\CatalogV2.pdb
