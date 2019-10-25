@@ -1,0 +1,7 @@
+D:\Works\Sem 3\Основы ООП\INIReaderV2\INIReaderV2\bin\Debug\INIReaderV2.exe.config
+D:\Works\Sem 3\Основы ООП\INIReaderV2\INIReaderV2\bin\Debug\INIReaderV2.exe
+D:\Works\Sem 3\Основы ООП\INIReaderV2\INIReaderV2\bin\Debug\INIReaderV2.pdb
+D:\Works\Sem 3\Основы ООП\INIReaderV2\INIReaderV2\obj\Debug\INIReaderV2.csproj.CoreCompileInputs.cache
+D:\Works\Sem 3\Основы ООП\INIReaderV2\INIReaderV2\obj\Debug\INIReaderV2.exe
+D:\Works\Sem 3\Основы ООП\INIReaderV2\INIReaderV2\obj\Debug\INIReaderV2.pdb
+D:\Works\Sem 3\Основы ООП\INIReaderV2\INIReaderV2\obj\Debug\INIReaderV2.csprojAssemblyReference.cache
