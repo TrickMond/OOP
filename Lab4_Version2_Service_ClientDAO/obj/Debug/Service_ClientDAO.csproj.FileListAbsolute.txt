@@ -1,0 +1,7 @@
+D:\Works\Sem 3\Основы ООП\Service_ClientDAO\bin\Debug\Service_ClientDAO.exe.config
+D:\Works\Sem 3\Основы ООП\Service_ClientDAO\bin\Debug\Service_ClientDAO.exe
+D:\Works\Sem 3\Основы ООП\Service_ClientDAO\bin\Debug\Service_ClientDAO.pdb
+D:\Works\Sem 3\Основы ООП\Service_ClientDAO\obj\Debug\Service_ClientDAO.csprojAssemblyReference.cache
+D:\Works\Sem 3\Основы ООП\Service_ClientDAO\obj\Debug\Service_ClientDAO.csproj.CoreCompileInputs.cache
+D:\Works\Sem 3\Основы ООП\Service_ClientDAO\obj\Debug\Service_ClientDAO.exe
+D:\Works\Sem 3\Основы ООП\Service_ClientDAO\obj\Debug\Service_ClientDAO.pdb
